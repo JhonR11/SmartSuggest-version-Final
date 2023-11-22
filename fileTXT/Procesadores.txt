@@ -1,0 +1,621 @@
+LGA775;Pentium;Pentium E6800;0;baja
+LGA775;Pentium;Pentium E6700;0;baja
+LGA775;Pentium;Pentium E5400;0;baja
+LGA775;Pentium;Pentium E5300;0;baja
+LGA775;Pentium;Pentium E5200;0;baja
+LGA775;Pentium;Pentium E2210;0;baja
+LGA775;Core 2;Core 2 Duo E8700;0;baja
+LGA775;Core 2;Core 2 Duo E6600;0;baja
+LGA775;Core 2;Core 2 Duo E6550;0;baja
+LGA775;Core 2;Core 2 Duo E6540;0;baja
+LGA775;Core 2;Core 2 Duo E6420;0;baja
+LGA775;Core 2;Core 2 Duo E6400;0;baja
+LGA775;Core 2;Core 2 Duo E6320;0;baja
+LGA775;Core 2;Core 2 Duo E6300;0;baja
+LGA775;Core 2;Core 2 Duo E4700;0;baja
+LGA775;Core 2;Core 2 Duo E4600;0;baja
+LGA775;Core 2;Core 2 Duo E4500;0;baja
+LGA775;Core 2;Core 2 Duo E4400;0;baja
+LGA775;Core 2;Core 2 Duo E4300;0;baja
+LGA775;Core 2;Core 2 Quad Q6700;0;baja
+LGA775;Core 2;Core 2 Quad Q6600;0;baja
+LGA775;Core 2;Core 2 Quad Q6400;0;baja
+LGA1567;Core i7;Core i7-880;0;bajo-alta
+LGA1567;Core i7;Core i7-875K;0;bajo-alta
+LGA1567;Core i7;Core i7-870S;0;bajo-alta
+LGA1567;Core i7;Core i7-870;0;bajo-alta
+LGA1567;Core i7;Core i7-860S;0;bajo-alta
+LGA1567;Core i7;Core i7-860;0;bajo-alta
+LGA1567;Core i5;Core i5-760;0;baja-media
+LGA1567;Core i5;Core i5-750S;0;baja-media
+LGA1567;Core i5;Core i5-680;0;baja-media
+LGA1567;Core i5;Core i5-670;0;baja-media
+LGA1567;Core i5;Core i5-661;0;baja-media
+LGA1567;Core i5;Core i5-660;0;baja-media
+LGA1567;Core i5;Core i5-655K;0;baja-media
+LGA1567;Core i5;Core i5-650;0;baja-media
+LGA1567;Core i3;Core i3-560;0;baja
+LGA1567;Core i3;Core i3-550;0;baja
+LGA1567;Core i3;Core i3-540;0;baja
+LGA1567;Core i3;Core i3-530;0;baja
+LGA1155;Core i7;Core i7-3770K;3;media-baja
+LGA1155;Core i7;Core i7-3770;3;media-baja
+LGA1155;Core i7;Core i7-3770S;3;media-baja
+LGA1155;Core i7;Core i7-2700K;2;media-baja
+LGA1155;Core i7;Core i7-2600K;2;media-baja
+LGA1155;Core i7;Core i7-3770T;3;media-baja
+LGA1155;Core i5;Core i5-3570K;3;baja-media
+LGA1155;Core i5;Core i7-2600S;2;baja-media
+LGA1155;Core i5;Core i5-3570;3;baja-media
+LGA1155;Core i5;Core i5-3550;3;baja-media
+LGA1155;Core i5;Core i5-3550S;3;baja-media
+LGA1155;Core i5;Core i5-2550K;2;baja-media
+LGA1155;Core i5;Core i5-3570S;3;baja-media
+LGA1155;Core i5;Core i5-3470;3;baja-media
+LGA1155;Core i5;Core i5-2500K;2;baja-media
+LGA1155;Core i5;Core i5-3450;3;baja-media
+LGA1155;Core i5;Core i5-3475S;3;baja-media
+LGA1155;Core i5;Core i5-2500;2;baja-media
+LGA1155;Core i5;Core i5-3470S;3;baja-media
+LGA1155;Core i5;Core i5-2450P;2;baja-media
+LGA1155;Core i5;Core i5-3350P;3;baja-media
+LGA1155;Core i5;Core i5-3450S;3;baja-media
+LGA1155;Core i5;Core i5-3340;3;baja-media
+LGA1155;Core i5;Core i5-3330;4;baja-media
+LGA1155;Core i5;Core i5-2400;2;baja-media
+LGA1155;Core i5;Core i5-3570T;3;baja-media
+LGA1155;Core i5;Core i5-2380P;2;baja-media
+LGA1155;Core i5;Core i5-3340S;3;baja-media
+LGA1155;Core i5;Core i5-3340S;3;baja-media
+LGA1155;Core i5;Core i5-2320;2;baja-media
+LGA1155;Core i5;Core i5-2500S;2;baja-media
+LGA1155;Core i5;Core i5-24055;2;baja-media
+LGA1155;Core i5;Core i5-2400S;2;baja-media
+LGA1155;Core i5;Core i5-2500T;2;baja-media
+LGA1155;Core i5;Core i5-3470T;3;baja-media
+LGA1155;Core i3;Core i3-3250;3;baja
+LGA1155;Core i3;Core i3-3225;3;baja
+LGA1155;Core i3;Core i5-2390T;2;baja
+LGA1155;Core i3;Core i3-3240;3;baja
+LGA1155;Core i3;Core i3-3245;3;baja
+LGA1155;Core i3;Core i3-3220;3;baja
+LGA1155;Core i3;Core i3-2130;2;baja
+LGA1155;Core i3;Core i3-2125;2;baja
+LGA1155;Core i3;Core i3-3210;3;baja
+LGA1155;Core i3;Core i3-2120;2;baja
+LGA1155;Core i3;Core i3-2102;2;baja
+LGA1155;Core i3;Core i3-2105;2;baja
+LGA1155;Core i3;Core i3-3240T;3;baja
+LGA1155;Core i3;Core i3-3220T;3;baja
+LGA1155;Core i3;Core i3-2100;2;baja
+LGA1155;Pentium;Pentium G2140;0;baja
+LGA1155;Pentium;Pentium G2130;0;baja
+LGA1155;Pentium;Pentium G630;0;baja
+LGA1155;Pentium;Pentium G645T;0;baja
+LGA1155;Pentium;Pentium G620;0;baja
+LGA1155;Pentium;Pentium G630T;0;baja
+LGA1155;Pentium;Pentium G620T;0;baja
+LGA1155;Pentium;Pentium G640T;0;baja
+LGA1155;Celeron;Celeron G1610T;1;baja
+LGA1155;Celeron;Celeron G550;0;baja
+LGA1155;Celeron;Celeron G1620T;101;baja
+LGA1155;Celeron;Celeron G540;0;baja
+LGA1155;Celeron;Celeron G530;0;baja
+LGA1155;Celeron;Celeron G550T;0;baja
+LGA1155;Celeron;Celeron G540T;0;baja
+LGA1155;Celeron;Celeron G470;0;baja
+LGA1155;Celeron;Celeron G465;0;baja
+LGA1155;Celeron;Celeron G460;0;baja
+LGA1155;Celeron;Celeron G440;0;baja
+LGA 2011;Core i7;Core i7-4960X;4;media-alta
+LGA 2011;Core i7;Core i7-4930K;4;media-alta
+LGA 2011;Core i7;Core i7-4820K;4;media-alta
+LGA 2011;Core i7;Core i7-3970X;3;media-alta
+LGA 2011;Core i7;Core i7-3960X;3;media-alta
+LGA 2011;Core i7;Core i7-3930K;3;media-alta
+LGA 2011;Core i7;Core i7-3820;3;media-alta
+G2 / rPBGA 988B;Core i3;Core i3-2308M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2310M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2312M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2328M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2330E;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2330M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2332M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2348M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2350M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-2370M;2;baja
+G2 / rPBGA 988B;Core i3;Core i3-3110M;3;baja
+G2 / rPBGA 988B;Core i3;Core i3-3120M;3;baja
+G2 / rPBGA 988B;Core i3;Core i3-3120ME;3;baja
+G2 / rPBGA 988B;Core i3;Core i3-3130M;3;baja
+G2 / rPBGA 988B;Core i5;Core i5-2410M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core I5-2430M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2450M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2450M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2510E;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2510E;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2520M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-2540M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-3210M;2;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-3230M;3;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-3320M;3;bajo-alta
+G2 / rPBGA 988B;Core i5;Core i5-3340M;3;media-baja
+G2 / rPBGA 988B;Core i5;Core i5-3360M;3;media-baja
+G2 / rPBGA 988B;Core i5;Core i5-3380M;3;media-baja
+G2 / rPBGA 988B;Core i5;Core i5-3610ME;3;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-2620M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-26300M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-2640M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-26700M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-27100E;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-2720QM;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-27600M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-2820;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-28600M;2;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-3520M;3;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-3540M;3;media-baja
+G2 / rPBGA 988B;Core i7;Core i7-36100E;3;media-alta
+G2 / rPBGA 988B;Core i7;Core i7-36100M;3;media-alta
+LGA 1150;Core i7;Core i7-4790K;4;media-alta
+LGA 1150;Core i7;Core i7-4790;4;media-alta
+LGA 1150;Core i7;Core i7-4771;4;media-alta
+LGA 1150;Core i7;Core i7-4770K;4;media-alta
+LGA 1150;Core i7;Core i7-4770;4;media
+LGA 1150;Core i7;Core i7-5775C;5;media
+LGA 1150;Core i7;Core i7-4790S;4;media
+LGA 1150;Core i7;Core i7-4770S;4;media
+LGA 1150;Core i7;Core i7-4790T;4;media
+LGA 1150;Core i7;Core i7-4770T;4;media
+LGA 1150;Core i7;Core i7-4770TE;4;media
+LGA 1150;Core i7;Core i7-4785T;4;media
+LGA 1150;Core i7;Core i7-4765T;4;media
+LGA 1150;Core i5;Core i5-4690K;4;media-baja
+LGA 1150;Core i5;Core i5-4670;4;media-baja
+LGA 1150;Core i5;Core i5-4670K;4;media-baja
+LGA 1150;Core i5;Core i5-4590;4;media-baja
+LGA 1150;Core i5;Core i5-4690S;4;media-baja
+LGA 1150;Core i5;Core I5-4570;4;bajo-alta
+LGA 1150;Core i5;Core i5-4460;4;bajo-alta
+LGA 1150;Core i5;Core i5-4670S;4;bajo-alta
+LGA 1150;Core i5;Core I5-5675C;5;bajo-alta
+LGA 1150;Core i5;Core i5-4440;4;bajo-alta
+LGA 1150;Core i5;Core i5-4590S;4;bajo-alta
+LGA 1150;Core i5;Core i5-4430;4;bajo-alta
+LGA 1150;Core i5;Core i5-4570S;4;bajo-alta
+LGA 1150;Core i5;Core i5-4460S;4;bajo-alta
+LGA 1150;Core i5;Core i5-4440S;4;bajo-alta
+LGA 1150;Core i5;Core i5-4430S;4;bajo-alta
+LGA 1150;Core i3;Core i3-4370;4;baja
+LGA 1150;Core i3;Core i3-4360;4;baja
+LGA 1150;Core i3;Core i3-4170;4;baja
+LGA 1150;Core i3;Core i3-4350;4;baja
+LGA 1150;Core i3;Core i3-4340;4;baja
+LGA 1150;Core i3;Core i3-4160;4;baja
+LGA 1150;Core i3;Core i3-4330;4;baja
+LGA 1150;Core i3;Core i3-4150;4;baja
+LGA 1150;Core i3;Core i3-4130;4;baja
+LGA 1150;Core i3;Core i3-4370T;4;baja
+LGA 1150;Core i3;Core i3-4360T;4;baja
+LGA 1150;Core i3;Core i3-4170T;4;baja
+LGA 1150;Core i3;Core i3-4350T;4;baja
+LGA 1150;Core i3;Core i3-4160T;4;baja
+LGA 1150;Core i3;Core i3-4330T;4;baja
+LGA 1150;Core i3;Core i3-4330TE;4;baja
+LGA 1150;Pentium;Pentium G3470;3;baja
+LGA 1150;Pentium;Pentium G3460;3;baja
+LGA 1150;Pentium;Pentium G3450;3;baja
+LGA 1150;Pentium;Pentium G3440;3;baja
+LGA 1150;Pentium;Pentium G3430;3;baja
+LGA 1150;Pentium;Pentium G3260;3;baja
+LGA 1150;Pentium;Pentium G3420;3;baja
+LGA 1150;Pentium;Pentium G3258;3;baja
+LGA 1150;Pentium;Pentium G3250;3;baja
+LGA 1150;Pentium;Pentium G3240;3;baja
+LGA 1150;Pentium;Pentium G3460T;3;baja
+LGA 1150;Pentium;Pentium G3220;3;baja
+LGA 1150;Pentium;Pentium G3450T;3;baja
+LGA 1150;Pentium;Pentium G3260T;3;baja
+1151;Core i7;Core i7-9700T;9;alta
+1151;Core i7;Core i7-9700KF;9;alta
+1151;Core i7;Core i7-9700K;9;alta
+1151;Core i7;Core i7-9700F;9;alta
+1151;Core i7;Core i7-9700E;9;alta
+1151;Core i7;Core i7-9700;9;alta
+1151;Core i7;Core i7-8700T;8;alta
+1151;Core i7;Core i7-8700K;8;alta
+1151;Core i7;Core i7-8700;8;alta
+1151;Core i7;Core i7-8086K;8;alta
+1151;Core i7;Core i7-7700T;7;alta
+1151;Core i7;Core i7-7700K;7;alta
+1151;Core i7;Core i7-7700;7;alta
+1151;Core i7;Core i7-6700TE;6;alta
+1151;Core i7;Core i7-6700T;6;alta
+1151;Core i7;Core i7-6700K;6;alta
+1151;Core i7;Core i7-6700;6;alta
+1151;Core i5;Core i5-9600T;9;alta-media
+1151;Core i5;Core i5-9600K;9;alta-media
+1151;Core i5;Core i5-9600;9;alta-media
+1151;Core i5;Core i5-9500TE;9;alta-media
+1151;Core i5;Core i5-9500F;9;alta-media
+1151;Core i5;Core i5-9500E;9;alta-media
+1151;Core i5;Core i5-9500;9;alta-media
+1151;Core i5;Core i5-9400T;9;alta-media
+1151;Core i5;Core i5-9400F;9;alta-media
+1151;Core i5;Core i5-9400;9;alta-media
+1151;Core i5;Core i5-8600T;8;alta-media
+1151;Core i5;Core i5-8600K;8;alta-media
+1151;Core i5;Core i5-8600;8;alta-media
+1151;Core i5;Core i5-8500T;8;alta-media
+1151;Core i5;Core i5-8500;8;alta-media
+1151;Core i5;Core i5-8400T;8;alta-media
+1151;Core i5;Core i5-8400;8;alta-media
+1151;Core i5;Core i5-7600T;7;alta-media
+1151;Core i5;Core i5-7600K;7;alta-media
+1151;Core i5;Core i5-7600;7;alta-media
+1151;Core i5;Core i5-7500T;7;alta-media
+1151;Core i5;Core i5-7500;7;alta-media
+1151;Core i5;Core i5-7400;7;alta-media
+1151;Core i5;Core i5-6600T;6;alta-media
+1151;Core i5;Core i5-6600K;6;alta-media
+1151;Core i5;Core i5-6600;6;alta-media
+1151;Core i5;Core i5-6500TE;6;alta-media
+1151;Core i5;Core i5-6500T;6;alta-media
+1151;Core i5;Core i5-6500;6;alta-media
+1151;Core i5;Core i5-6402P;6;alta-media
+1151;Core i5;Core i5-6400T;6;alta-media
+1151;Core i5;Core i5-6400;6;alta-media
+1151;Core i3;Core i3-9350KF;9;alta-baja
+1151;Core i3;Core i3-9350K;9;alta-baja
+1151;Core i3;Core i3-9320;9;alta-baja
+1151;Core i3;Core i3-9300T;9;alta-baja
+1151;Core i3;Core i3-9300;9;alta-baja
+1151;Core i3;Core i3-9100TE;9;alta-baja
+1151;Core i3;Core i3-9100T;9;alta-baja
+1151;Core i3;Core i3-9100F;9;alta-baja
+1151;Core i3;Core i3-9100E;9;alta-baja
+1151;Core i3;Core i3-9100;9;alta-baja
+1151;Core i3;Core i3-8350K;8;alta-baja
+1151;Core i3;Core i3-8300T;8;alta-baja
+1151;Core i3;Core i3-8300;8;alta-baja
+1151;Core i3;Core i3-8100T;8;alta-baja
+1151;Core i3;Core i3-8100F;8;alta-baja
+1151;Core i3;Core i3-8100;8;alta-baja
+1151;Core i3;Core i3-7350K;7;alta-baja
+1151;Core i3;Core i3-7320;7;alta-baja
+1151;Core i3;Core i3-7300T;7;alta-baja
+1151;Core i3;Core i3-7300;7;media-baja
+1151;Core i3;Core i3-7101TE;7;media-baja
+1151;Core i3;Core i3-7101E;7;media-baja
+1151;Core i3;Core i3-7100T;7;media-baja
+1151;Core i3;Core i3-7100;7;media-baja
+1151;Core i3;Core i3-6320T;6;media-baja
+1151;Core i3;Core i3-6320;6;media-baja
+1151;Core i3;Core i3-6300T;6;media-baja
+1151;Core i3;Core i3-6300;6;media-baja
+1151;Core i3;Core i3-6100TE;6;media-baja
+1151;Core i3;Core i3-6100T;6;media-baja
+1151;Core i3;Core i3-6100;6;media-baja
+1151;Core i3;Core i3-6098P;6;media-baja
+1151;Celeron;Celeron G4950;4;baja
+1151;Celeron;Celeron G4930T;4;baja
+1151;Celeron;Celeron G4930;4;baja
+1151;Celeron;Celeron G4920;4;baja
+1151;Celeron;Celeron G4900T;4;baja
+1151;Celeron;Celeron G4900;4;baja
+1151;Celeron;Celeron G3950;3;baja
+1151;Celeron;Celeron G3930TE;3;baja
+1151;Celeron;Celeron G3930T;3;baja
+1151;Celeron;Celeron G3930E;3;baja
+1151;Celeron;Celeron G3930;3;baja
+1151;Celeron;Celeron G3920;3;baja
+1151;Celeron;Celeron G3900TE;3;baja
+1151;Celeron;Celeron G3900T;3;baja
+1151;Celeron;Celeron G3900;3;baja
+LGA 1200;Core i7;Core i7-11700T;11;alta
+LGA 1200;Core i7;Core i7-11700KF;11;alta
+LGA 1200;Core i7;Core i7-11700K;11;alta
+LGA 1200;Core i7;Core i7-11700F;11;alta
+LGA 1200;Core i7;Core i7-11700B;11;alta
+LGA 1200;Core i7;Core i7-11700;11;alta
+LGA 1200;Core i7;Core i7-10700TE;10;alta
+LGA 1200;Core i7;Core i7-10700T;10;alta
+LGA 1200;Core i7;Core i7-10700KF;10;alta
+LGA 1200;Core i7;Core i7-10700K;10;alta
+LGA 1200;Core i7;Core i7-10700F;10;alta
+LGA 1200;Core i7;Core i7-10700E;10;alta
+LGA 1200;Core i7;Core i7-10700;10;alta
+LGA 1200;core i5;Core i5-11600T;11;alta
+LGA 1200;core i5;Core i5-11600KF;11;alta
+LGA 1200;core i5;Core i5-11600K;11;alta
+LGA 1200;core i5;Core i5-11600;11;alta-media
+LGA 1200;core i5;Core i5-11500T;11;alta-media
+LGA 1200;core i5;Core i5-11500B;11;alta-media
+LGA 1200;core i5;Core i5-11500;11;alta-media
+LGA 1200;core i5;Core i5-11400T;11;alta-media
+LGA 1200;core i5;Core i5-11400F;11;alta-media
+LGA 1200;core i5;Core i5-11400;11;alta-media
+LGA 1200;core i5;Core i5-10600T;10;alta-media
+LGA 1200;core i5;Core i5-10600KF;10;alta-media
+LGA 1200;core i5;Core i5-10600K;10;alta-media
+LGA 1200;core i5;Core i5-10600;10;alta-media
+LGA 1200;core i5;Core i5-10505;10;alta-media
+LGA 1200;core i5;Core i5-10500TE;10;alta-media
+LGA 1200;core i5;Core i5-10500T;10;alta-media
+LGA 1200;core i5;Core i5-10500E;10;alta-media
+LGA 1200;core i5;Core i5-10500;10;alta-media
+LGA 1200;core i5;Core i5-10400T;10;alta-media
+LGA 1200;core i5;Core i5-10400F;10;alta-media
+LGA 1200;core i5;Core i5-10400;10;alta-media
+LGA 1200;Core i3;Core i3-11340;11;alta-baja
+LGA 1200;Core i3;Core i3-11100B;1;alta-baja
+LGA 1200;Core i3;Core i3-10325;10;alta-baja
+LGA 1200;Core i3;Core i3-10320;10;alta-baja
+LGA 1200;Core i3;Core i3-10305T;10;alta-baja
+LGA 1200;Core i3;Core i3-10305;10;alta-baja
+LGA 1200;Core i3;Core i3-10300T;10;alta-baja
+LGA 1200;Core i3;Core i3-10300;10;alta-baja
+LGA 1200;Core i3;Core i3-10105T;10;alta-baja
+LGA 1200;Core i3;Core i3-10105F;10;alta-baja
+LGA 1200;Core i3;Core i3-10105;10;alta-baja
+LGA 1200;Core i3;Core i3-10100TE;10;alta-baja
+LGA 1200;Core i3;Core i3-10100T;10;alta-baja
+LGA 1200;Core i3;Core i3-10100F;10;alta-baja
+LGA 1200;Core i3;Core i3-10300T;10;alta-baja
+LGA 1200;Core i3;Core i3-10300;10;alta-baja
+LGA 1200;Core i3;Core i3-10105T;10;alta-baja
+LGA 1200;Core i3;Core i3-10105F;10;alta-baja
+LGA 1200;Core i3;Core i3-10105;10;alta-baja
+LGA 1200;Core i3;Core i3-10100TE;10;alta-baja
+LGA 1200;Core i3;Core i3-10100T;10;alta-baja
+LGA 1200;Core i3;Core i3-10100F;10;alta-baja
+LGA 1200;Core i3;Core i3-10100E;10;alta-baja
+LGA 1200;Core i3;Core i3-10100;10;baja
+LGA 1200;Celeron;Celeron G5925;5;baja
+LGA 1200;Celeron;Celeron G5905T;5;baja
+LGA 1200;Celeron;Celeron G5920;5;baja
+LGA 1200;Celeron;Celeron G5905;5;baja
+LGA 1200;Celeron;Celeron G5900TE;5;baja
+AM3+;FX-Series;1;FX-4100;baja
+AM3+;FX-Series;1;FX-4110;baja
+AM3+;FX-Series;1;FX-4120;baja
+AM3+;FX-Series;1;FX-4130;baja
+AM3+;FX-Series;1;FX-4150;baja
+AM3+;FX-Series;1;FX-4150;baja
+AM3+;FX-Series;1;FX-4170;baja
+AM3+;FX-Series;2;FX-4200;baja
+AM3+;FX-Series;3;FX-4300;baja
+AM3+;FX-Series;3;FX-4320;baja
+AM3+;FX-Series;3;FX-4330;baja
+AM3+;FX-Series;3;FX-4350;baja
+AM3+;FX-Series;1;FX-6100;baja
+AM3+;FX-Series;1;FX-6110;baja
+AM3+;FX-Series;1;FX-6120;baja
+AM3+;FX-Series;1;FX-6130;baja
+AM3+;FX-Series;2;FX-6200;baja
+AM3+;FX-Series;3;FX-6300;baja
+AM3+;FX-Series;3;FX-6330;baja
+AM3+;FX-Series;3;FX-6350;baja
+AM3+;FX-Series;1;FX-8100;baja-media
+AM3+;FX-Series;1;FX-8110;baja-media
+AM3+;FX-Series;1;FX-8120;baja-media
+AM3+;FX-Series;1;FX-8130P;baja-media
+AM3+;FX-Series;1;FX-8140;baja-media
+AM3+;FX-Series;1;FX-8150;baja-media
+AM3+;FX-Series;1;FX-8170;baja-media
+AM3+;FX-Series;3;FX-8300;baja-media
+AM3+;FX-Series;3;FX-8310;baja-media
+AM3+;FX-Series;3;FX-8320;baja-media
+AM3+;FX-Series;3;FX-8320E;baja-media
+AM3+;FX-Series;3;FX-8350;baja-media
+AM3+;FX-Series;3;FX-8370;baja-media
+AM3+;FX-Series;3;FX-8370E;baja-media
+AM3+;FX-Series;3;FX-9370;baja-media
+AM3+;FX-Series;3;FX-9590;baja-media
+AM3+;FX-Series;1;FX-B4150;baja-media
+FM2+;Athlon X4;0;830;baja
+FM2+;Athlon X4;0;835;baja
+FM2+;Athlon X4;0;840;baja
+FM2+;Athlon X4;0;845;baja
+FM2+;Athlon X4;0;850;baja
+FM2+;Athlon X4;0;860K;baja
+FM2+;Athlon X4;0;870K;baja
+FM2+;Athlon X4;0;880K;baja
+FM2+;A4-Series;7;A4-7300;baja-media
+FM2+;A4-Series;7;A4 PRO-7350B;baja-media
+FM2+;A6-Series;7;A6 PRO-7400B;baja-media
+FM2+;A6-Series;7;A6-7400K;baja-media
+FM2+;A6-Series;7;A6-7470K;baja-media
+FM2+;A6-Series;7;A6-7480;baja-media
+FM2+;A6-Series;8;A6-8550;baja-media
+FM2+;A6-Series;8;A6-8550K;baja-media
+FM2+;A8-Series;7;A8 PRO-7600B;baja-media
+FM2+;A8-Series;7;A8-7500;baja-media
+FM2+;A8-Series;7;A8-7600;baja-media
+FM2+;A8-Series;7;A8-7650K;baja-media
+FM2+;A8-Series;7;A8-7670K;baja-media
+FM2+;A8-Series;7;A8-7680;baja-media
+FM2+;A8-Series;7;A8-7690K;baja-media
+FM2+;A8-Series;8;A8-8650;baja-media
+FM2+;A8-Series;8;A8-8650K;baja-media
+FM2+;A10-Series;7;A10 PRO-7800B;baja-alta
+FM2+;A10-Series;7;A10 PRO-7850B;baja-alta
+FM2+;A10-Series;7;A10-7700K;baja-alta
+FM2+;A10-Series;7;A10-7800;baja-alta
+FM2+;A10-Series;7;A10-7850K;baja-alta
+FM2+;A10-Series;7;A10-7860K;baja-alta
+FM2+;A10-Series;7;A10-7870K;baja-alta
+FM2+;A10-Series;7;A10-7890K;baja-alta
+FM2+;A10-Series;8;A10-8750;baja-alta
+FM2+;A10-Series;8;A10-8850K;baja-alta
+FM2+;FX-Series;0;FX-770K;baja-alta
+FM2+;FX-Series;0;FX-870K;baja-alta
+FM2+;A10-Series;8;PRO A10-8750B;baja-alta
+FM2+;A10-Series;8;PRO A10-8850B;baja-alta
+FM2+;A4-Series;8;PRO A4-8350B;baja-alta
+FM2+;A6-Series;8;PRO A6-8550B;baja-alta
+FM2+;A8-Series;8;PRO A8-8650B;baja-alta
+FM2;Sempron X2;0;240;baja-media
+FM2;Sempron X2;0;250;baja-media
+FM2;Athlon X2;0;340;baja-media
+FM2;Athlon X2;0;350;baja-media
+FM2;Athlon X2;0;370K;baja-media
+FM2;Athlon X4;0;730;baja-media
+FM2;Athlon X4;0;740;baja-media
+FM2;Athlon X4;0;750;baja-media
+FM2;Athlon X4;0;750K;baja-media
+FM2;Athlon X4;0;760K;baja-media
+FM2;FirePro;0;A300;baja-media
+FM2;FirePro;0;A320;baja-media
+FM2;A4-Series;4;A4-4000;baja-media
+FM2;A4-Series;4;A4-4020;baja-media
+FM2;A4-Series;5;A4-5300;baja-media
+FM2;A4-Series;5;A4-5300B;baja-media
+FM2;A4-Series;6;A4-6300;baja-media
+FM2;A4-Series;6;A4-6300B;baja-media
+FM2;A4-Series;6;A4-6320;baja-media
+FM2;A4-Series;6;A4-6320B;baja-media
+FM2;A4-Series;7;A4-7300;baja-media
+FM2;A4-Series;7;A4 PRO-7300B;baja-media
+FM2;A6-Series;5;A6-5400B;baja-media
+FM2;A6-Series;5;A6-5400K;baja-media
+FM2;A6-Series;6;A6-6400B;baja-media
+FM2;A6-Series;6;A6-6400K;baja-media
+FM2;A6-Series;6;A6-6420B;baja-media
+FM2;A6-Series;6;A6-6420K;baja-media
+FM2;A8-Series;5;A8-5500;baja-media
+FM2;A8-Series;5;A8-5500B;baja-media
+FM2;A8-Series;5;A8-5600K;baja-media
+FM2;A8-Series;6;A8-6500;baja-media
+FM2;A8-Series;6;A8-6500B;baja-media
+FM2;A8-Series;6;A8-6500T;baja-media
+FM2;A8-Series;6;A8-6600K;baja-media
+FM2;A10-Series;5;A10-5700;baja-alta
+FM2;A10-Series;5;A10-5800B;baja-alta
+FM2;A10-Series;5;A10-5800K;baja-alta
+FM2;A10-Series;6;A10-6700;baja-alta
+FM2;A10-Series;6;A10-6700T;baja-alta
+FM2;A10-Series;6;A10-6790B;baja-alta
+FM2;A10-Series;6;A10-6790K;baja-alta
+FM2;A10-Series;6;A10-6800B;baja-alta
+FM2;A10-Series;6;A10-6800K;baja-alta
+FM2;FX-Series;0;FX-670K;baja-alta
+AM1;Athlon X4;0;530;baja-media
+AM1;Athlon X4;0;550;baja-media
+AM1;Sempron;2;2650;baja-media
+AM1;Sempron;3;3850;baja-media
+AM1;Athlon;5;5150;baja-media
+AM1;Athlon;5;5350;baja-media
+AM1;Athlon;5;5370;baja-media
+AM4;Ryzen 5;2;2500X;media-baja
+AM4;Ryzen 5;2;2600;media-baja
+AM4;Ryzen 5 PRO;2;2600;media-alta
+AM4;Ryzen 5;2;2600E;media-alta
+AM4;Ryzen 5;2;2600X;media-alta
+AM4;Ryzen 7;2;2700;alta-baja
+AM4;Ryzen 7 PRO;2;2700;alta-baja
+AM4;Ryzen 7;2;2700E;alta-baja
+AM4;Ryzen 7;2;2700X;alta-baja
+AM4;Ryzen 7 PRO;2;2700X;alta-baja
+AM4;Athlon;3;3000G;media-alta
+AM4;Athlon;3;3050GE;media-alta
+AM4;Ryzen 3;3;3100;media-alta
+AM4;Athlon PRO;3;3125GE;media
+AM4;Athlon;3;3150G;media
+AM4;Athlon PRO;3;3150G;media
+AM4;Athlon;3;3150GE;media
+AM4;Athlon PRO;3;3150GE;media
+AM4;Ryzen 3;3;3200G;media
+AM4;Ryzen 3 PRO;3;3200G;media-alta
+AM4;Ryzen 3;3;3200GE;media-alta
+AM4;Ryzen 3 PRO;3;3200GE;media-alta
+AM4;Ryzen 3;3;3300X;media-alta
+AM4;Ryzen 5;3;3350G;media-alta
+AM4;Ryzen 5 PRO;3;3350G;media-alta
+AM4;Ryzen 5 PRO;3;3350GE;media-alta
+AM4;Ryzen 5;3;3400G;media-alta
+AM4;Ryzen 5 PRO;3;3400G;media-alta
+AM4;Ryzen 5;3;3400GE;media-alta
+AM4;Ryzen 5 PRO;3;3400GE;media-alta
+AM4;Ryzen 5;3;3500;media-alta
+AM4;Ryzen 5;3;3500X;media-alta
+AM4;Ryzen 5;3;3600;media-alta
+AM4;Ryzen 5 PRO;3;3600;media-alta
+AM4;Ryzen 5;3;3600X;media-alta
+AM4;Ryzen 5;3;3600XT;media-alta
+AM4;Ryzen 7 PRO;3;3700;media-alta
+AM4;Ryzen 7;3;3700X;alta-baja
+AM4;Ryzen 7;3;3800X;alta-baja
+AM4;Ryzen 7;3;3800XT;alta-baja
+AM4;Ryzen 9;3;3900;alta-media
+AM4;Ryzen 9 PRO;3;3900;alta-media
+AM4;Ryzen 9;3;3900X;alta-media
+AM4;Ryzen 9;3;3900XT;alta-media
+AM4;Ryzen 9;3;3950X;alta-media
+AM4;Ryzen 3;4;4100;media
+AM4;Ryzen 3;4;4300G;media
+AM4;Ryzen 3;4;4300GE;media
+AM4;Ryzen 3 PRO;4;4350G;media
+AM4;Ryzen 3 PRO;4;4350GE;media
+AM4;Ryzen 3 PRO;4;4355G;media
+AM4;Ryzen 3 PRO;4;4355GE;media-alta
+AM4;Ryzen 5;4;4500;media-alta
+AM4;Ryzen 5;4;4600G;media-alta
+AM4;Ryzen 5;4;4600GE;media-alta
+AM4;Ryzen 5 PRO;4;4650G;alta-media
+AM4;Ryzen 5 PRO;4;4650GE;alta-media
+AM4;Ryzen 5 PRO;4;4655G;alta-media
+AM4;Ryzen 5 PRO;4;4655GE;alta-media
+AM4;Ryzen 7;4;4700G;alta-media
+AM4;Ryzen 7;4;4700GE;alta-media
+AM4;Ryzen 7 PRO;4;4750G;alta-media
+AM4;Ryzen 7 PRO;4;4750GE;alta-media
+AM4;Ryzen 3;5;5300G;media-alta
+AM4;Ryzen 3;5;5300GE;media-alta
+AM4;Ryzen 3 PRO;5;5350G;media-alta
+AM4;Ryzen 3 PRO;5;5350GE;media-alta
+AM4;Ryzen 5;5;5500;alta-media
+AM4;Ryzen 5;5;5600;alta-media
+AM4;Ryzen 5;5;5600G;alta-media
+AM4;Ryzen 5;5;5600GE;alta-media
+AM4;Ryzen 5;5;5600X;alta-media
+AM4;Ryzen 5;5;5600X3D;alta-media
+AM4;Ryzen 5 PRO;5;5645;alta
+AM4;Ryzen 5 PRO;5;5650G;alta
+AM4;Ryzen 5 PRO;5;5650GE;alta
+AM4;Ryzen 7;5;5700;alta
+AM4;Ryzen 7;5;5700G;alta
+AM4;Ryzen 7;5;5700GE;alta
+AM4;Ryzen 7;5;5700X;alta
+AM4;Ryzen 7 PRO;5;5750G;alta
+AM4;Ryzen 7 PRO;5;5750GE;alta
+AM4;Ryzen 7;5;5800;alta
+AM4;Ryzen 7;5;5800X;alta
+AM4;Ryzen 7;5;5800X3D;alta
+AM4;Ryzen 7 PRO;5;5845;alta
+AM4;Ryzen 9;5;5900;alta
+AM4;Ryzen 9;5;5900X;alta
+AM4;Ryzen 9 PRO;5;5945;alta
+AM4;Ryzen 9;5;5950X;alta
+AM4;A6-Series;9;A6-9400;media-baja
+AM4;A6-Series;9;A6-9500;media-baja
+AM4;A6-Series;9;A6-9500E;media-baja
+AM4;A6-Series;9;A6-9550;media-baja
+AM4;A8-Series;9;A8-9600;media-baja
+AM4;A10-Series;9;A10-9700;media-baja
+AM4;A10-Series;9;A10-9700E;media-baja
+AM4;A12-Series;9;A12-9800;media-baja
+AM4;A12-Series;9;A12-9800E;media-baja
+AM4;A10-Series;8;PRO A10-8770;media-baja
+AM4;A10-Series;8;PRO A10-8770E;media-baja
+AM4;A12-Series;8;PRO A12-8870;media-baja
+AM4;A12-Series;8;PRO A12-8870E;media-baja
+AM4;A6-Series;8;PRO A6-8570;media-baja
+AM4;A6-Series;8;PRO A6-8570E;media-baja
+AM4;A6-Series;8;PRO A6-8580;media-baja
+AM4;A8-Series;9;PRO A8-9600;media-baja
+AM4;A6-Series;9;PRO A6-9500;media-baja
+AM4;A6-Series;9;PRO A6-9500E;media-baja
+AM4;A10-Series;9;PRO A10-9700;media-baja
+AM4;A10-Series;9;PRO A10-9700E;media-baja
+AM4;A12-Series;9;PRO A12-9800;media-baja
+AM4;A12-Series;9;PRO A12-9800E;media-baja

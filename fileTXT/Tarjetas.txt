@@ -1,0 +1,30 @@
+1;Nvidia;GT 710;2;DDR3;200;false;Ninguno;PCI 2.0x8;192;baja;./src/IMG/Tarjetas/gt710.png
+2;Nvidia;GT 720;2;GDDR5;300;false;Ninguno;PCI 2.0x8;192;baja;./src/IMG/Tarjetas/gt720.png
+3;Nvidia;GT 730;2;GDDR5;300;false;Ninguno;PCI 2.0x16;384;baja;./src/IMG/Tarjetas/gt730.png
+4;Nvidia;GT 740;2;GDDR5;350;true;1x6;PCI 3.0x16;384;baja;./src/IMG/Tarjetas/gt740.png
+5;Nvidia;GTX 750;1;GDDR5;350;false;Ninguno;PCI 3.0x16;512;baja;./src/IMG/Tarjetas/gtx750.png
+6;Nvidia;GTX 750 ti;2;GDDR5;350;false;Ninguno;PCI 3.0x16;640;baja;./src/IMG/Tarjetas/gtx750ti.png
+7;Nvidia;GTX 760;2;GDDR5;400;true;2x6;PCI 3.0x16;1152;baja;./src/IMG/Tarjetas/gtx760.png
+8;Nvidia;GTX 770;2;GDDR5;500;true;1x6-1x8;PCI 3.0x16;1536;baja;./src/IMG/Tarjetas/gtx770.png
+9;Nvidia;GTX 780;3;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2304;baja;./src/IMG/Tarjetas/gtx780.png
+10;Nvidia;GTX 780 ti;3;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2880;baja;./src/IMG/Tarjetas/gtx780ti.png
+11;Nvidia;GTX 1050;4;GDDR5;300;false;2x6;PCI 3.0X16;640;baja-media;./src/IMG/Tarjetas/gtx1050.png
+12;Nvidia;GTX 1050 ti;4;GDDR5;350;false;2x6;PCI 3.0X16;768;baja-media;./src/IMG/Tarjetas/gtx1050ti.png
+13;Nvidia;GTX 1070;8;GDDR5;500;false;2x6;PCI 3.0X16;1920;bajo-alta;./src/IMG/Tarjetas/gtx1070.png
+14;Nvidia;GTX 1080;4;GDDR5X;500;true;2x6;PCI 3.0X16;2560;media;./src/IMG/Tarjetas/gtx1080.png
+15;Nvidia;GTX 1080 ti;11;GDDR5x;600;true;2x6;PCI 3.0X16;3584;media;./src/IMG/Tarjetas/gtx1080ti.png
+16;Nvidia;GTX 1660;4;GDDR6;400;false;2x6;PCI 3.0X16;1408;media;./src/IMG/Tarjetas/gtx1660.png
+17;Nvidia;RTX 1660 ti;6;GDDR6;400;false;2x6;PCI 3.0X16;1536;baja-alta;./src/IMG/Tarjetas/gtx1660ti.png
+18;Nvidia;GTX 1660 SUPER;6;GDDR6;400;false;2x6;PCI 3.0X16;1408;media;./src/IMG/Tarjetas/gtx1660Super.png
+19;Nvidia;RTX 2060;6;GDDR6;600;true;2x6;PCI 3.0X16;1920;media;./src/IMG/Tarjetas/rtx2060.png
+20;Nvidia;RTX 2070;8;GDDR6;600;true;2x6;PCI 3.0X16;2304;media;./src/IMG/Tarjetas/rtx2070.png
+21;Nvidia;RTX 2070 SUPER;8;GDDR6;750;true;2x6;PCI 4.0X16;2560;media-alta;./src/IMG/Tarjetas/rtx2070Super.png
+22;Nvidia;RTX 2080;8;GDDR6;700;true;2x6;PCI 3.0X16;2944;media-alta;./src/IMG/Tarjetas/rtx2080.png
+23;Nvidia;RTX 2080 ti;8;GDDR6;700;true;2x6;PCI 3.0X16;4352;media-alta;./src/IMG/Tarjetas/rtx2080ti.png
+24;Nvidia;RTX 2080 SUPER;8;GDDR6;750;true;2x6;PCI 4.0X16;3072;media-alta;./src/IMG/Tarjetas/rtx2080Super.png
+25;Nvidia;RTX 3070;8;GDDR6;800;true;2x6;PCI 4.0X16;5888;alta-baja;./src/IMG/Tarjetas/rtx3070.png
+26;Nvidia;RTX 3080;10;GDDR6X;800;true;2x6;PCI 4.0X16;8704;alta-media;./src/IMG/Tarjetas/rtx3080.png
+27;Nvidia;RTX 3090;8;GDDR6;900;true;2x6;PCI 4.0X16;10496;media-alta;./src/IMG/Tarjetas/rtx3090.png
+28;Nvidia;GTX TITAN;6;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2688;baja-media;./src/IMG/Tarjetas/NVIDIA GeForce TRX 4090 Ti.png
+29;Nvidia;GTX TITAN BLACK;6;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2880;baja-media;./src/IMG/Tarjetas/NVIDIA GeForce TRX 4090 Ti.png
+30;Nvidia;GT TITAN Z;12;GDDR5;500;true;2x8;PCI 3.0x16;5760;baja-media;./src/IMG/Tarjetas/NVIDIA GeForce TRX 4090 Ti.png
