@@ -269,7 +269,7 @@ public class Componentes extends javax.swing.JFrame {
     private void jb_VolverActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jb_VolverActionPerformed
         // TODO add your handling code here:
         this.setVisible(false);
-        AdministrarTarjetas menu = new AdministrarTarjetas();
+        Vis_Menu menu = new Vis_Menu();
         menu.setVisible(true);
     }//GEN-LAST:event_jb_VolverActionPerformed
 
